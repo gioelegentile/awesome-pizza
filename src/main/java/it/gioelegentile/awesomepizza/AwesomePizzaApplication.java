@@ -10,5 +10,4 @@ public class AwesomePizzaApplication {
         SpringApplication.run(AwesomePizzaApplication.class, args);
     }
 
-
 }
